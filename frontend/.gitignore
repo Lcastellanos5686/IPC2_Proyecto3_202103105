@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+
+# Local development configuration
+instance/
+.env
+
+# Python distribution / packaging
+env/
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Flask debugging files
+*.pyc
+*.pyo
+*.pyd
+*.~*
+
+# IDE-specific files
+.idea/
+.vscode/
+*.pydevproject
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Asegúrate de actualizar la ruta y el nombre del entorno virtual si utilizas uno diferente del ejemplo (como env o venv). Además, si tu proyecto utiliza algún otro archivo o carpeta que no esté incluido en este archivo .gitignore, asegúrate de agregarlo manualmente para evitar que se incluya en el repositorio de Git.
+
+
+
+
+
+

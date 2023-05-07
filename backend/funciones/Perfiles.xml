@@ -1,0 +1,235 @@
+<?xml version="1.0"?> 
+<perfiles>
+<perfil>
+  <nombre>deportista</nombre>
+  <palabrasClave>
+      <palabra>entrenamiento</palabra>
+      <palabra>disciplina</palabra>
+      <palabra>fuerza</palabra>
+      <palabra>resistencia</palabra>
+      <palabra>velocidad</palabra>
+      <palabra>tecnica</palabra>
+      <palabra>estrategia</palabra>
+      <palabra>concentracion</palabra>
+      <palabra>determinacion</palabra>
+      <palabra>competicion</palabra>
+      <palabra>preparacion</palabra>
+      <palabra>rendimiento</palabra>
+      <palabra>flexibilidad</palabra>
+      <palabra>agilidad</palabra>
+      <palabra>motivación</palabra>
+      <palabra>salud</palabra>
+      <palabra>rehabilitacion</palabra>
+      <palabra>alimentacion</palabra>
+      <palabra>hidratacion</palabra>
+      <palabra>descanso</palabra>
+      <palabra>gimnasio</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>pintor</nombre>
+  <palabrasClave>
+      <palabra>creatividad</palabra>
+      <palabra>tecnica</palabra>
+      <palabra>estilo</palabra>
+      <palabra>color</palabra>
+      <palabra>pincelada</palabra>
+      <palabra>lienzo</palabra>
+      <palabra>composicion</palabra>
+      <palabra>proporcion</palabra>
+      <palabra>textura</palabra>
+      <palabra>forma</palabra>
+      <palabra>expresion</palabra>
+      <palabra>imaginacion</palabra>
+      <palabra>inspiracion</palabra>
+      <palabra>combinacion</palabra>
+      <palabra>perspectiva</palabra>
+      <palabra>movimiento</palabra>
+      <palabra>claroscuro</palabra>
+      <palabra>sombra</palabra>
+      <palabra>iluminacion</palabra>
+      <palabra>tempera</palabra>
+      <palabra>oleo</palabra>
+      <palabra>acuarela</palabra>
+      <palabra>pigmento</palabra>
+      <palabra>barniz</palabra>
+      <palabra>artista</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>cocinero</nombre>
+  <palabrasClave>
+      <palabra>creatividad</palabra>
+      <palabra>pasion</palabra>
+      <palabra>sabor</palabra>
+      <palabra>textura</palabra>
+      <palabra>presentacion</palabra>
+      <palabra>combinacion</palabra>
+      <palabra>aroma</palabra>
+      <palabra>mezcla</palabra>
+      <palabra>especias</palabra>
+      <palabra>ingredientes</palabra>
+      <palabra>balance</palabra>
+      <palabra>innovacion</palabra>
+      <palabra>dedicacion</palabra>
+      <palabra>conocimiento</palabra>
+      <palabra>técnica</palabra>
+      <palabra>presentacion</palabra>
+      <palabra>estetica</palabra>
+      <palabra>plato</palabra>
+      <palabra>experiencia</palabra>
+      <palabra>calidad</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>corredor</nombre>
+  <palabrasClave>
+      <palabra>resistencia</palabra>
+      <palabra>velocidad</palabra>
+      <palabra>fuerza</palabra>
+      <palabra>constancia</palabra>
+      <palabra>entrenamiento</palabra>
+      <palabra>dedicacion</palabra>
+      <palabra>superacion</palabra>
+      <palabra>ritmo</palabra>
+      <palabra>maraton</palabra>
+      <palabra>mediofondo</palabra>
+      <palabra>sprint</palabra>
+      <palabra>respiracion</palabra>
+      <palabra>endurance</palabra>
+      <palabra>disciplina</palabra>
+      <palabra>recuperacion</palabra>
+      <palabra>estiramiento</palabra>
+      <palabra>hidratacion</palabra>
+      <palabra>objetivo</palabra>
+      <palabra>preparacion</palabra>
+      <palabra>compromiso</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>ingeniero</nombre>
+  <palabrasClave>
+      <palabra>innovacion</palabra>
+      <palabra>solucion</palabra>
+      <palabra>creatividad</palabra>
+      <palabra>tecnologia</palabra>
+      <palabra>eficiencia</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>deportista</nombre>
+  <palabrasClave>
+      <palabra>entrenamiento</palabra>
+      <palabra>disciplina</palabra>
+      <palabra>fuerza</palabra>
+      <palabra>resistencia</palabra>
+      <palabra>velocidad</palabra>
+      <palabra>tecnica</palabra>
+      <palabra>estrategia</palabra>
+      <palabra>concentracion</palabra>
+      <palabra>determinacion</palabra>
+      <palabra>competicion</palabra>
+      <palabra>preparacion</palabra>
+      <palabra>rendimiento</palabra>
+      <palabra>flexibilidad</palabra>
+      <palabra>agilidad</palabra>
+      <palabra>motivación</palabra>
+      <palabra>salud</palabra>
+      <palabra>rehabilitacion</palabra>
+      <palabra>alimentacion</palabra>
+      <palabra>hidratacion</palabra>
+      <palabra>descanso</palabra>
+      <palabra>gimnasio</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>pintor</nombre>
+  <palabrasClave>
+      <palabra>creatividad</palabra>
+      <palabra>tecnica</palabra>
+      <palabra>estilo</palabra>
+      <palabra>color</palabra>
+      <palabra>pincelada</palabra>
+      <palabra>lienzo</palabra>
+      <palabra>composicion</palabra>
+      <palabra>proporcion</palabra>
+      <palabra>textura</palabra>
+      <palabra>forma</palabra>
+      <palabra>expresion</palabra>
+      <palabra>imaginacion</palabra>
+      <palabra>inspiracion</palabra>
+      <palabra>combinacion</palabra>
+      <palabra>perspectiva</palabra>
+      <palabra>movimiento</palabra>
+      <palabra>claroscuro</palabra>
+      <palabra>sombra</palabra>
+      <palabra>iluminacion</palabra>
+      <palabra>tempera</palabra>
+      <palabra>oleo</palabra>
+      <palabra>acuarela</palabra>
+      <palabra>pigmento</palabra>
+      <palabra>barniz</palabra>
+      <palabra>artista</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>cocinero</nombre>
+  <palabrasClave>
+      <palabra>creatividad</palabra>
+      <palabra>pasion</palabra>
+      <palabra>sabor</palabra>
+      <palabra>textura</palabra>
+      <palabra>presentacion</palabra>
+      <palabra>combinacion</palabra>
+      <palabra>aroma</palabra>
+      <palabra>mezcla</palabra>
+      <palabra>especias</palabra>
+      <palabra>ingredientes</palabra>
+      <palabra>balance</palabra>
+      <palabra>innovacion</palabra>
+      <palabra>dedicacion</palabra>
+      <palabra>conocimiento</palabra>
+      <palabra>técnica</palabra>
+      <palabra>presentacion</palabra>
+      <palabra>estetica</palabra>
+      <palabra>plato</palabra>
+      <palabra>experiencia</palabra>
+      <palabra>calidad</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>corredor</nombre>
+  <palabrasClave>
+      <palabra>resistencia</palabra>
+      <palabra>velocidad</palabra>
+      <palabra>fuerza</palabra>
+      <palabra>constancia</palabra>
+      <palabra>entrenamiento</palabra>
+      <palabra>dedicacion</palabra>
+      <palabra>superacion</palabra>
+      <palabra>ritmo</palabra>
+      <palabra>maraton</palabra>
+      <palabra>mediofondo</palabra>
+      <palabra>sprint</palabra>
+      <palabra>respiracion</palabra>
+      <palabra>endurance</palabra>
+      <palabra>disciplina</palabra>
+      <palabra>recuperacion</palabra>
+      <palabra>estiramiento</palabra>
+      <palabra>hidratacion</palabra>
+      <palabra>objetivo</palabra>
+      <palabra>preparacion</palabra>
+      <palabra>compromiso</palabra>
+  </palabrasClave>
+</perfil>
+<perfil>
+  <nombre>ingeniero</nombre>
+  <palabrasClave>
+      <palabra>innovacion</palabra>
+      <palabra>solucion</palabra>
+      <palabra>creatividad</palabra>
+      <palabra>tecnologia</palabra>
+      <palabra>eficiencia</palabra>
+  </palabrasClave>
+</perfil>
+</perfiles>

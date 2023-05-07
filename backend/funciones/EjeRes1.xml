@@ -1,0 +1,6 @@
+<?xml version="1.0"?> 
+<respuesta> 
+    <perfilesNuevos> Se han creado 3 perfiles nuevos </perfilesNuevos> 
+    <perfilesExistentes> Se han actualizado 2 perfiles existentes </perfilesExistentes> 
+    <descartadas> Se han creado 20 nuevas palabras a descartar </descartadas> 
+</respuesta>
